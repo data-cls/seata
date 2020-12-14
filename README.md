@@ -243,6 +243,7 @@ here](https://github.com/seata/seata/issues/1246) to tell us your scenario to ma
     <img alt='北京易点租有限公司' height='40'  src='https://img.alicdn.com/tfs/TB1nax.FuH2gK0jSZFEXXcqMpXa-336-154.png'  /img>  
     </div>
 
+https://www.cnblogs.com/kaleidoscope/p/9627573.html
 
 	问题的起源
 
